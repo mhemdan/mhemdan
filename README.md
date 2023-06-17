@@ -12,8 +12,6 @@ Let's exchange thoughts and experiences:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhemdanfaraj/)
 
 ## 🛠 My Tech Arsenal:
-
-I've honed my skills using a wide variety of tools and technologies:
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![ANDROID](https://img.shields.io/badge/Android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -26,24 +24,16 @@ I've honed my skills using a wide variety of tools and technologies:
 
 In the realm of AWS, I've begun employing a serverless tech stack including Lambda, DynamoDB, SQS, SNS, and the Cloud Development Kit (CDK).
 
-## 📈 My GitHub Highlights:
-
-Here's a glimpse of my GitHub activities:
+## 📈 My GitHub Highlights
 ![](https://github-readme-stats.vercel.app/api?username=mhemdan&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhemdan&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhemdan&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 My GitHub Achievements:
-
-Take a peek at my array of GitHub trophies:
 ![](https://github-profile-trophy.vercel.app/?username=mhemdan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🧠 Words of Wisdom:
-
-A random quote to inspire your developer journey:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📚 My Major Contributions:
-
-A showcase of my top contributions:
 ![](https://github-contributor-stats.vercel.app/api?username=mhemdan&limit=5&theme=dark&combine_all_yearly_contributions=true)
